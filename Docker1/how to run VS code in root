@@ -1,0 +1,96 @@
+diwakarajay44gm@diwakarajay44gm:~$ sudo apt installsudo apt update
+E: Invalid operation installsudo
+diwakarajay44gm@diwakarajay44gm:~$ 
+diwakarajay44gm@diwakarajay44gm:~$ sudo apt install software-properties-common apt-transport-https wget
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+apt-transport-https is already the newest version (1.2.32).
+software-properties-common is already the newest version (0.96.20.9).
+wget is already the newest version (1.17.1-1ubuntu1.5).
+The following packages were automatically installed and are no longer required:
+  aufs-tools bridge-utils cgroupfs-mount containerd docker.io
+  linux-azure-cloud-tools-4.15.0-1064 linux-azure-headers-4.15.0-1064
+  linux-azure-tools-4.15.0-1064 linux-cloud-tools-4.15.0-1064-azure
+  linux-headers-4.15.0-1064-azure linux-image-4.15.0-1064-azure
+  linux-modules-4.15.0-1064-azure linux-tools-4.15.0-1064-azure pigz
+  python-asn1crypto python-backports.ssl-match-hostname python-cached-property
+  python-certifi python-cffi-backend python-chardet python-cryptography
+  python-docker python-dockerpty python-docopt python-enum34 python-funcsigs
+  python-functools32 python-idna python-ipaddress python-jsonschema
+  python-mock python-openssl python-pbr python-requests python-six
+  python-texttable python-urllib3 python-websocket python-yaml runc ubuntu-fan
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 60 not upgraded.
+diwakarajay44gm@diwakarajay44gm:~$ wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
+OK
+diwakarajay44gm@diwakarajay44gm:~$ sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
+diwakarajay44gm@diwakarajay44gm:~$ sudo apt update
+Hit:1 http://azure.archive.ubuntu.com/ubuntu xenial InRelease
+Get:2 http://azure.archive.ubuntu.com/ubuntu xenial-updates InRelease [109 kB] 
+Get:3 http://azure.archive.ubuntu.com/ubuntu xenial-backports InRelease [107 kB]
+Ign:4 http://dl.google.com/linux/chrome/deb stable InRelease                   
+Hit:5 http://repo.zabbix.com/zabbix/3.2/ubuntu xenial InRelease                
+Get:6 http://security.ubuntu.com/ubuntu xenial-security InRelease [109 kB]     
+Hit:7 http://dl.google.com/linux/chrome/deb stable Release                     
+Hit:8 http://ppa.launchpad.net/certbot/certbot/ubuntu xenial InRelease         
+Get:9 https://packages.microsoft.com/repos/vscode stable InRelease [3,958 B]   
+Hit:10 http://ppa.launchpad.net/linuxuprising/java/ubuntu xenial InRelease   
+Hit:11 http://ppa.launchpad.net/remmina-ppa-team/freerdp-daily/ubuntu xenial InRelease
+Get:12 http://azure.archive.ubuntu.com/ubuntu xenial-updates/main amd64 Packages [1,141 kB]
+Hit:13 http://ppa.launchpad.net/ubuntu-mozilla-security/ppa/ubuntu xenial InRelease
+Hit:14 http://ppa.launchpad.net/webupd8team/java/ubuntu xenial InRelease       
+Get:16 https://packages.microsoft.com/repos/vscode stable/main amd64 Packages [176 kB]
+Fetched 1,646 kB in 2s (664 kB/s)                              
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+60 packages can be upgraded. Run 'apt list --upgradable' to see them.
+diwakarajay44gm@diwakarajay44gm:~$ 
+diwakarajay44gm@diwakarajay44gm:~$ sudo apt install code
+Reading package lists... Done
+Building dependency tree       
+Reading state information... Done
+The following packages were automatically installed and are no longer required:
+  aufs-tools bridge-utils cgroupfs-mount containerd docker.io
+  linux-azure-cloud-tools-4.15.0-1064 linux-azure-headers-4.15.0-1064
+  linux-azure-tools-4.15.0-1064 linux-cloud-tools-4.15.0-1064-azure
+  linux-headers-4.15.0-1064-azure linux-image-4.15.0-1064-azure
+  linux-modules-4.15.0-1064-azure linux-tools-4.15.0-1064-azure pigz
+  python-asn1crypto python-backports.ssl-match-hostname python-cached-property
+  python-certifi python-cffi-backend python-chardet python-cryptography
+  python-docker python-dockerpty python-docopt python-enum34 python-funcsigs
+  python-functools32 python-idna python-ipaddress python-jsonschema
+  python-mock python-openssl python-pbr python-requests python-six
+  python-texttable python-urllib3 python-websocket python-yaml runc ubuntu-fan
+Use 'sudo apt autoremove' to remove them.
+The following NEW packages will be installed:
+  code
+0 upgraded, 1 newly installed, 0 to remove and 60 not upgraded.
+Need to get 62.3 MB of archives.
+After this operation, 265 MB of additional disk space will be used.
+Get:1 https://packages.microsoft.com/repos/vscode stable/main amd64 code amd64 1.44.2-1587059832 [62.3 MB]
+Fetched 62.3 MB in 1s (36.8 MB/s)
+Selecting previously unselected package code.
+(Reading database ... 224952 files and directories currently installed.)
+Preparing to unpack .../code_1.44.2-1587059832_amd64.deb ...
+Unpacking code (1.44.2-1587059832) ...
+Processing triggers for desktop-file-utils (0.22-1ubuntu5.2) ...
+Processing triggers for mime-support (3.59ubuntu1) ...
+Setting up code (1.44.2-1587059832) ...
+diwakarajay44gm@diwakarajay44gm:~$ code
+diwakarajay44gm@diwakarajay44gm:~$ sudo code
+You are trying to start vscode as a super user which is not recommended. If you really want to, you must specify an alternate user data directory using the --user-data-dir argument.
+diwakarajay44gm@diwakarajay44gm:~$ sudo chown -R myuser 
+chown: missing operand after ‘myuser’
+Try 'chown --help' for more information.
+diwakarajay44gm@diwakarajay44gm:~$ sudo chown -R diwakarajay44gm 
+chown: missing operand after ‘diwakarajay44gm’
+Try 'chown --help' for more information.
+diwakarajay44gm@diwakarajay44gm:~$ sudo chown -R diwakarajay44gm .
+chown: cannot access './thinclient_drives': Permission denied
+diwakarajay44gm@diwakarajay44gm:~$ sudo code
+You are trying to start vscode as a super user which is not recommended. If you really want to, you must specify an alternate user data directory using the --user-data-dir argument.
+diwakarajay44gm@diwakarajay44gm:~$ sudo code . --user-data-dir='.'
+diwakarajay44gm@diwakarajay44gm:~$ 
+
