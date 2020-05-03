@@ -1,0 +1,714 @@
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361548
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361280
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361552
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 1017045493
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 16384
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361280
+
+(gedit:32119): Gtk-WARNING **: Calling org.xfce.Session.Manager.Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Method "Inhibit" with signature "susu" on interface "org.xfce.Session.Manager" doesn't exist
+
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 319345980
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201462848
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201462848
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201462872
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295365056
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 302835370
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361168
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201399264
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361168
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361548
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361548
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361280
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361552
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 1017045493
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361280
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 319345980
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201462848
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201462848
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201462872
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295365056
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 302835370
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201399264
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361168
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361548
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361548
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361280
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361552
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 1017045493
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 16384
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361280
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 319345980
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201462848
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201462848
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201462872
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295365056
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 302835370
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201399264
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361168
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361548
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361548
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361280
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361552
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 1017045493
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 16384
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32119): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361280
+diwakarajay44gm@diwakarajay44gm:~/web_dev$ ls
+docker-compose.yml  index.php  php
+diwakarajay44gm@diwakarajay44gm:~/web_dev$ sudo chown diwakarajay44gm:diwakarajay44gm php/ -R
+diwakarajay44gm@diwakarajay44gm:~/web_dev$ gedit index.php
+
+(gedit:32703): Gtk-WARNING **: Theme parsing error: <data>:2:28: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(gedit:32703): Gtk-WARNING **: Theme parsing error: <data>:3:36: The style property GtkButton:default-outside-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(gedit:32703): Gtk-WARNING **: Theme parsing error: <data>:4:25: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(gedit:32703): Gtk-WARNING **: Theme parsing error: <data>:5:30: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(gedit:32703): Gtk-WARNING **: Theme parsing error: <data>:6:27: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(gedit:32703): Gtk-WARNING **: Theme parsing error: <data>:2:28: The style property GtkButton:default-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(gedit:32703): Gtk-WARNING **: Theme parsing error: <data>:3:36: The style property GtkButton:default-outside-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(gedit:32703): Gtk-WARNING **: Theme parsing error: <data>:4:25: The style property GtkButton:inner-border is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(gedit:32703): Gtk-WARNING **: Theme parsing error: <data>:5:30: The style property GtkWidget:focus-line-width is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(gedit:32703): Gtk-WARNING **: Theme parsing error: <data>:6:27: The style property GtkWidget:focus-padding is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(gedit:32703): Gtk-WARNING **: Theme parsing error: <data>:5:22: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(gedit:32703): Gtk-WARNING **: Theme parsing error: <data>:5:22: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(gedit:32703): Gtk-WARNING **: Theme parsing error: <data>:5:22: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(gedit:32703): Gtk-WARNING **: Theme parsing error: <data>:5:22: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(gedit:32703): Gtk-WARNING **: Theme parsing error: <data>:5:22: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(gedit:32703): Gtk-WARNING **: Theme parsing error: <data>:5:22: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(gedit:32703): Gtk-WARNING **: Theme parsing error: <data>:5:22: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(gedit:32703): Gtk-WARNING **: Theme parsing error: <data>:5:22: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(gedit:32703): Gtk-WARNING **: Theme parsing error: <data>:5:22: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(gedit:32703): Gtk-WARNING **: Theme parsing error: <data>:5:22: The :focused pseudo-class is deprecated. Use :focus instead.
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 319345980
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201462848
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201462848
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201462872
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295365056
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 302835370
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361168
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201399264
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361168
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361548
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361548
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361280
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361552
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 1017045493
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361280
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 319345980
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201462848
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201462848
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201462872
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295365056
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 302835370
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201399264
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361168
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361548
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361548
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361280
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361552
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 1017045493
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 16384
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361280
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 319345980
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201462848
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201462848
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201462872
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295365056
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 302835370
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201399264
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361168
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361548
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361548
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361280
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361552
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 1017045493
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 16384
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361280
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 319345980
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201462848
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201462848
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201462872
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295365056
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 302835370
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361168
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201399264
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361168
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361548
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361548
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361280
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361552
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 1017045493
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 10557184
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 201400640
+
+(gedit:32703): Gdk-WARNING **: /build/gtk+3.0-NmdvYo/gtk+3.0-3.22.11/./gdk/x11/gdkproperty-x11.c:224 invalid X atom: 295361280
+
+(gedit:32703): Gtk-WARNING **: Calling org.xfce.Session.Manager.Inhibit failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Method "Inhibit" with signature "susu" on interface "org.xfce.Session.Manager" doesn't exist
+
+diwakarajay44gm@diwakarajay44gm:~/web_dev$ history
+    1  sudo curl -L "https://github.com/docker/compose/releases/download/1.25.5/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+    2  docker version
+    3  yum install docker -y
+    4  sudo su-
+    5  sudo su -
+    6  newgrp docker
+    7  docker run hello-world
+    8  docker image ls
+    9  docker container ls
+   10  docker container ls -a
+   11  docker rmi hello-world: latest
+   12  docker container ls -a
+   13  docker container rm musing_elbakyan
+   14  docker container rm festive_blackburn
+   15  docker container rm wizardly_elion
+   16  docker container ls -a
+   17  docker image ls
+   18  docker rmi hello-world:latest
+   19  docker image ls
+   20  mkdir web_dev
+   21  cd web_dev/
+   22  nano docker-compose.yml
+   23  cat docker-compose.yml
+   24  gedit docker-compose.yml
+   25  sudo chown your_user:your_user php/ -R
+   26  sudo nano index.php
+   27  docker-compose up
+   28  sudo apt docker-compose up
+   29  systemctl stop firewall
+   30  docker rmi hello-world:latest
+   31  cd web_dev
+   32  nano docker-compose.yml
+   33  sudo nano index.php
+   34  cat index.php
+   35  ifconfig
+   36  firefox
+   37  apt install firefox
+   38  sudo apt install firefox
+   39  dcoker-compose up
+   40  docker-compose up
+   41  cd web_dev
+   42  docker-compose up
+   43  nano docker-compose.yml
+   44  gedit docker-compose.yml
+   45  sudo apt install gedit
+   46  gedit docker-compose.yml
+   47  docker-compose up
+   48  gedit docker-compose.yml
+   49  docker-compose up
+   50  gedit docker-compose.yml
+   51  gedit docker-compose 3.3.yml
+   52  gedit docker-compose.yml
+   53  docker-compose up
+   54  docker --version
+   55  ls
+   56  cd .
+   57  cd ..
+   58  docker image
+   59  docker images
+   60  gedit docker-compose.yml
+   61  cat index.php
+   62  cd web_dev
+   63  gedit docker-compose.yml
+   64  docker-compose up
+   65  cd ..
+   66  grep version docker-compose.yml
+   67  docker-compose --version
+   68  curl -L https://github.com/docker/compose/releases/download/1.18.0-rc2/docker-compose-`uname -s-uname -m` -o /usr/local/bin/docker-compose
+   69  chmod +x /usr/local/bin/docker-compose
+   70  curl -L https://github.com/docker/compose/releases/download/1.18.0-rc2/docker-compose-`uname -s-uname -m` -o /usr/local/bin/docker-compose
+   71  sudo apt upgrade docker-compose
+   72  sudo curl -L "https://github.com/docker/compose/releases/download/1.23.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+   73  docker-compose --version
+   74  sudo apt-get remove docker-compose
+   75  docker-compose --version
+   76  do curl -L "https://github.com/docker/compose/releases/download/1.23.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+   77  sudo curl -L "https://github.com/docker/compose/releases/download/1.23.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+   78  docker-compose --version
+   79  sudo curl -L "https://github.com/docker/compose/releases/download/1.23.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+   80  sudo chmod +x /usr/local/bin/docker-compose
+   81  sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
+   82  docker-compose --version
+   83  cd web_dev
+   84  docker-compose up
+   85  ls
+   86  cd php/
+   87  ls
+   88  nano index.php
+   89  ls -la
+   90  sudo chown diwakarajay44gm:diwakarajay44gm php/ -R
+   91  cd ..
+   92  sudo chown diwakarajay44gm:diwakarajay44gm php/ -R
+   93  ls -la
+   94  sudo chown diwakarajay44gm:diwakarajay44gm php/ -R
+   95  cd php
+   96  nano index.php
+   97  cd ..
+   98  docker-compose up
+   99  cd php
+  100  ls
+  101  nano Dockerfile
+  102  ls
+  103  nano docker-compose.yml
+  104  cd ..
+  105  nano docker-compose.yml
+  106  gedit docker-compose.yml
+  107  docker-compose up
+  108  gedit docker-compose.yml
+  109  docker-compose up
+  110  gedit docker-compose.yml
+  111  docker-compose up
+  112  gedit docker-compose.yml
+  113  docker-compose up
+  114  ls
+  115  gedit index.php
+  116  ls
+  117  sudo chown diwakarajay44gm:diwakarajay44gm php/ -R
+  118  gedit index.php
+  119  history
+diwakarajay44gm@diwakarajay44gm:~/web_dev$ docker-compose up
+Starting mysql8 ... done
+Starting php73  ... done
+Attaching to mysql8, php73
+mysql8 | 2020-05-02 20:19:36+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.20-1debian10 started.
+mysql8 | 2020-05-02 20:19:36+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
+php73  | AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+php73  | AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+php73  | [Sat May 02 20:19:38.004943 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.3.3 configured -- resuming normal operations
+php73  | [Sat May 02 20:19:38.005039 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+mysql8 | 2020-05-02 20:19:36+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.20-1debian10 started.
+mysql8 | 2020-05-02T20:19:36.973778Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+mysql8 | 2020-05-02T20:19:36.973940Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.20) starting as process 1
+mysql8 | 2020-05-02T20:19:36.987743Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+mysql8 | 2020-05-02T20:19:38.501879Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+mysql8 | 2020-05-02T20:19:38.743331Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/run/mysqld/mysqlx.sock' bind-address: '::' port: 33060
+mysql8 | 2020-05-02T20:19:38.947632Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+mysql8 | 2020-05-02T20:19:38.977472Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+mysql8 | 2020-05-02T20:19:38.999522Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.20'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server - GPL.
+php73  | 172.18.0.1 - - [02/May/2020:20:19:43 +0000] "GET / HTTP/1.1" 200 393 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0"
+^CGracefully stopping... (press Ctrl+C again to force)
+Stopping php73  ... done
+Stopping mysql8 ... done
+diwakarajay44gm@diwakarajay44gm:~/web_dev$ docker-compose up
+Starting mysql8 ... done
+Starting php73  ... done
+Attaching to mysql8, php73
+mysql8 | 2020-05-02 20:20:46+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.20-1debian10 started.
+mysql8 | 2020-05-02 20:20:46+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
+mysql8 | 2020-05-02 20:20:46+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.20-1debian10 started.
+mysql8 | 2020-05-02T20:20:47.119671Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+mysql8 | 2020-05-02T20:20:47.119799Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.20) starting as process 1
+mysql8 | 2020-05-02T20:20:47.142979Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+mysql8 | 2020-05-02T20:20:48.126770Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+php73  | AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+php73  | AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+mysql8 | 2020-05-02T20:20:48.402962Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/run/mysqld/mysqlx.sock' bind-address: '::' port: 33060
+php73  | [Sat May 02 20:20:48.416359 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.3.3 configured -- resuming normal operations
+php73  | [Sat May 02 20:20:48.416430 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+mysql8 | 2020-05-02T20:20:48.699960Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+mysql8 | 2020-05-02T20:20:48.730185Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+mysql8 | 2020-05-02T20:20:48.754348Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.20'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server - GPL.
+php73  | 172.18.0.1 - - [02/May/2020:20:20:53 +0000] "GET / HTTP/1.1" 200 408 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0"
+^CGracefully stopping... (press Ctrl+C again to force)
+Stopping php73  ... done
+Stopping mysql8 ... done
+diwakarajay44gm@diwakarajay44gm:~/web_dev$ docker-compose up
+Starting mysql8 ... done
+Starting php73  ... done
+Attaching to mysql8, php73
+mysql8 | 2020-05-02 20:21:28+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.20-1debian10 started.
+mysql8 | 2020-05-02 20:21:28+00:00 [Note] [Entrypoint]: Switching to dedicated user 'mysql'
+mysql8 | 2020-05-02 20:21:28+00:00 [Note] [Entrypoint]: Entrypoint script for MySQL Server 8.0.20-1debian10 started.
+mysql8 | 2020-05-02T20:21:29.000445Z 0 [Warning] [MY-011070] [Server] 'Disabling symbolic links using --skip-symbolic-links (or equivalent) is the default. Consider not using this option as it' is deprecated and will be removed in a future release.
+mysql8 | 2020-05-02T20:21:29.000643Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.20) starting as process 1
+mysql8 | 2020-05-02T20:21:29.019451Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+mysql8 | 2020-05-02T20:21:29.999771Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+php73  | AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+php73  | AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+php73  | [Sat May 02 20:21:30.215952 2020] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.25 (Debian) PHP/7.3.3 configured -- resuming normal operations
+php73  | [Sat May 02 20:21:30.216080 2020] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+mysql8 | 2020-05-02T20:21:30.357435Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/run/mysqld/mysqlx.sock' bind-address: '::' port: 33060
+mysql8 | 2020-05-02T20:21:30.592873Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+mysql8 | 2020-05-02T20:21:30.623391Z 0 [Warning] [MY-011810] [Server] Insecure configuration for --pid-file: Location '/var/run/mysqld' in the path is accessible to all OS users. Consider choosing a different directory.
+mysql8 | 2020-05-02T20:21:30.652574Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.20'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server - GPL.
+php73  | 172.18.0.1 - - [02/May/2020:20:21:34 +0000] "GET / HTTP/1.1" 200 260 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0"
+^CGracefully stopping... (press Ctrl+C again to force)
+Stopping php73  ... done
+Stopping mysql8 ... done
+diwakarajay44gm@diwakarajay44gm:~/web_dev$ history
+    1  sudo curl -L "https://github.com/docker/compose/releases/download/1.25.5/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+    2  docker version
+    3  yum install docker -y
+    4  sudo su-
+    5  sudo su -
+    6  newgrp docker
+    7  docker run hello-world
+    8  docker image ls
+    9  docker container ls
+   10  docker container ls -a
+   11  docker rmi hello-world: latest
+   12  docker container ls -a
+   13  docker container rm musing_elbakyan
+   14  docker container rm festive_blackburn
+   15  docker container rm wizardly_elion
+   16  docker container ls -a
+   17  docker image ls
+   18  docker rmi hello-world:latest
+   19  docker image ls
+   20  mkdir web_dev
+   21  cd web_dev/
+   22  nano docker-compose.yml
+   23  cat docker-compose.yml
+   24  gedit docker-compose.yml
+   25  sudo chown your_user:your_user php/ -R
+   26  sudo nano index.php
+   27  docker-compose up
+   28  sudo apt docker-compose up
+   29  systemctl stop firewall
+   30  docker rmi hello-world:latest
+   31  cd web_dev
+   32  nano docker-compose.yml
+   33  sudo nano index.php
+   34  cat index.php
+   35  ifconfig
+   36  firefox
+   37  apt install firefox
+   38  sudo apt install firefox
+   39  dcoker-compose up
+   40  docker-compose up
+   41  cd web_dev
+   42  docker-compose up
+   43  nano docker-compose.yml
+   44  gedit docker-compose.yml
+   45  sudo apt install gedit
+   46  gedit docker-compose.yml
+   47  docker-compose up
+   48  gedit docker-compose.yml
+   49  docker-compose up
+   50  gedit docker-compose.yml
+   51  gedit docker-compose 3.3.yml
+   52  gedit docker-compose.yml
+   53  docker-compose up
+   54  docker --version
+   55  ls
+   56  cd .
+   57  cd ..
+   58  docker image
+   59  docker images
+   60  gedit docker-compose.yml
+   61  cat index.php
+   62  cd web_dev
+   63  gedit docker-compose.yml
+   64  docker-compose up
+   65  cd ..
+   66  grep version docker-compose.yml
+   67  docker-compose --version
+   68  curl -L https://github.com/docker/compose/releases/download/1.18.0-rc2/docker-compose-`uname -s-uname -m` -o /usr/local/bin/docker-compose
+   69  chmod +x /usr/local/bin/docker-compose
+   70  curl -L https://github.com/docker/compose/releases/download/1.18.0-rc2/docker-compose-`uname -s-uname -m` -o /usr/local/bin/docker-compose
+   71  sudo apt upgrade docker-compose
+   72  sudo curl -L "https://github.com/docker/compose/releases/download/1.23.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+   73  docker-compose --version
+   74  sudo apt-get remove docker-compose
+   75  docker-compose --version
+   76  do curl -L "https://github.com/docker/compose/releases/download/1.23.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+   77  sudo curl -L "https://github.com/docker/compose/releases/download/1.23.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+   78  docker-compose --version
+   79  sudo curl -L "https://github.com/docker/compose/releases/download/1.23.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+   80  sudo chmod +x /usr/local/bin/docker-compose
+   81  sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
+   82  docker-compose --version
+   83  cd web_dev
+   84  docker-compose up
+   85  ls
+   86  cd php/
+   87  ls
+   88  nano index.php
+   89  ls -la
+   90  sudo chown diwakarajay44gm:diwakarajay44gm php/ -R
+   91  cd ..
+   92  sudo chown diwakarajay44gm:diwakarajay44gm php/ -R
+   93  ls -la
+   94  sudo chown diwakarajay44gm:diwakarajay44gm php/ -R
+   95  cd php
+   96  nano index.php
+   97  cd ..
+   98  docker-compose up
+   99  cd php
+  100  ls
+  101  nano Dockerfile
+  102  ls
+  103  nano docker-compose.yml
+  104  cd ..
+  105  nano docker-compose.yml
+  106  gedit docker-compose.yml
+  107  docker-compose up
+  108  gedit docker-compose.yml
+  109  docker-compose up
+  110  gedit docker-compose.yml
+  111  docker-compose up
+  112  gedit docker-compose.yml
+  113  docker-compose up
+  114  ls
+  115  gedit index.php
+  116  ls
+  117  sudo chown diwakarajay44gm:diwakarajay44gm php/ -R
+  118  gedit index.php
+  119  history
+  120  docker-compose up
+  121  history
+diwakarajay44gm@diwakarajay44gm:~/web_dev$ 
+
